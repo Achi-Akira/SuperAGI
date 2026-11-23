@@ -1,0 +1,9 @@
+{
+  "name": "superagi",
+  "version": "1.0.0",
+  "description": "Set up and run SuperAGI, the open-source autonomous AI agent framework: Docker install, config.yaml keys, creating and running agents with toolkits, local LLMs on GPU, and writing new toolkits.",
+  "homepage": "https://superagi.com",
+  "repository": "https://github.com/Achi-Akira/SuperAGI",
+  "license": "MIT",
+  "keywords": ["ai-agents", "autonomous-agents", "toolkits", "docker", "llm", "framework"]
+}
